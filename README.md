@@ -29,9 +29,7 @@ I'm Fabian Wilhelm aka Austria7. Currently, I'm working on a robot dog.
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Austria7&show_icons=true&count_private=true&hide_border=true" style="width: 50%" />
+![](https://github-readme-stats.vercel.app/api?username=Austria7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Austria7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+[![](https://visitcount.itsvg.in/api?id=Austria7&icon=2&color=12)](https://visitcount.itsvg.in)
